@@ -16,6 +16,8 @@
 - `P01-HEADER` — `app.php`: Установить X-Practice: 01 до вывода тела.
 
 
+gfgfgs
+
 400 bad request:\
 ```
 HTTP/1.1 400 Bad Request
