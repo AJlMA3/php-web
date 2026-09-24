@@ -15,8 +15,8 @@
 - `P01-SUM` — `app.php`: Вычислить сумму в минимальных денежных единицах.
 - `P01-HEADER` — `app.php`: Установить X-Practice: 01 до вывода тела.
 
+![alt text](image.png)
 
-gfgfgs
 
 400 bad request:\
 ```
