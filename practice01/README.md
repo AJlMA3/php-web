@@ -15,7 +15,56 @@
 - `P01-SUM` — `app.php`: Вычислить сумму в минимальных денежных единицах.
 - `P01-HEADER` — `app.php`: Установить X-Practice: 01 до вывода тела.
 
-![alt text](image.png)
+ 
+![alt text](image-1.png)
+1. GET и POST, 2 и 1
+ ![alt text](image-2.png)
+
+2. 0 и 0
+ ![alt text](image-3.png)
+
+3. Нет второго поля
+ ![alt text](image-4.png)
+
+4.  Пустое поле, -1, 100, 2.5, abc, 02
+
+Пустое поле:
+![alt text](image-5.png)
+
+-1:
+![alt text](image-6.png)
+ 
+100:
+![alt text](image-7.png)
+ 
+2.5:
+ ![alt text](image-8.png)
+
+
+abc:
+![alt text](image-9.png)
+ 
+02:
+ ![alt text](image-10.png)
+
+5. Массив вместо количества
+ ![alt text](image-11.png)
+
+6. GET к /preview
+ ![alt text](image-12.png)
+
+7. POST к /quote
+![alt text](image-13.png)
+ 
+8. /missing
+ ![alt text](image-14.png)
+
+9. HEAD к корректному /quote
+ ![alt text](image-15.png)
+
+10. Незавершенная функция starter
+ ![alt text](image-16.png)
+
 
 
 400 bad request:\
